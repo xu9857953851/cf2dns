@@ -21,7 +21,7 @@ KEY = "o1zrmHAF"
 #CM:移动 CU:联通 CT:电信  AB:境外 DEF:默认
 #修改需要更改的dnspod域名和子域名
 DOMAINS = {
-    "hostmonit.com": {"@": ["CM","CU","CT"], "shop": ["CM", "CU", "CT"], "stock": ["CM","CU","CT"]},
+    "wudib.com": {"@": ["CM","CU","CT"], "shop": ["CM", "CU", "CT"], "stock": ["CM","CU","CT"]},
     "xxxx.me": {"@": ["CM","CU","CT"], "vv": ["CM","CU","CT"]}
 }
 
